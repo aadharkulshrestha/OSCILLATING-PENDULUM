@@ -1,1 +1,1 @@
-# OSCILLATING-PENDULUM
+# Oscillating pendulum
